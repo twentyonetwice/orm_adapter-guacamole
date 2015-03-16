@@ -1,0 +1,7 @@
+test:
+  protocol: 'http'
+  host: 'localhost'
+  port: 8529
+  password: 'klaus'
+  username: 'test_pw'
+  database: 'orm_adapter_spec'
